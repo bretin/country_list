@@ -1,0 +1,991 @@
+{
+	"table": "pays",
+	"rows":
+	[
+		{
+			"pays_code": "AFG",
+			"pays_libelle": "Afghanistan",
+			"pays_nationalite": "Afghane"
+		},
+		{
+			"pays_code": "ALB",
+			"pays_libelle": "Albanie",
+			"pays_nationalite": "Albanaise"
+		},
+		{
+			"pays_code": "DZA",
+			"pays_libelle": "Algérie",
+			"pays_nationalite": "Algerienne"
+		},
+		{
+			"pays_code": "DEU",
+			"pays_libelle": "Allemagne",
+			"pays_nationalite": "Allemande"
+		},
+		{
+			"pays_code": "USA",
+			"pays_libelle": "États-Unis",
+			"pays_nationalite": "Americaine"
+		},
+		{
+			"pays_code": "AND",
+			"pays_libelle": "Andorre",
+			"pays_nationalite": "Andorrane"
+		},
+		{
+			"pays_code": "AGO",
+			"pays_libelle": "Angola",
+			"pays_nationalite": "Angolaise"
+		},
+		{
+			"pays_code": "ATG",
+			"pays_libelle": "Antigua et barbuda",
+			"pays_nationalite": "Antiguaise et barbudienne"
+		},
+		{
+			"pays_code": "ARG",
+			"pays_libelle": "Angola",
+			"pays_nationalite": "Argentine"
+		},
+		{
+			"pays_code": "ARM",
+			"pays_libelle": "Arménie",
+			"pays_nationalite": "Armenienne"
+		},
+		{
+			"pays_code": "AUS",
+			"pays_libelle": "Australie",
+			"pays_nationalite": "Australienne"
+		},
+		{
+			"pays_code": "AUT",
+			"pays_libelle": "Autriche",
+			"pays_nationalite": "Autrichienne"
+		},
+		{
+			"pays_code": "AZE",
+			"pays_libelle": "Azerbaïdjan",
+			"pays_nationalite": "Azerbaïdjanaise"
+		},
+		{
+			"pays_code": "BHS",
+			"pays_libelle": "Bahamas",
+			"pays_nationalite": "Bahamienne"
+		},
+		{
+			"pays_code": "BHR",
+			"pays_libelle": "Bahreïn",
+			"pays_nationalite": "Bahreinienne"
+		},
+		{
+			"pays_code": "BGD",
+			"pays_libelle": "Bangladesh",
+			"pays_nationalite": "Bangladaise"
+		},
+		{
+			"pays_code": "BRB",
+			"pays_libelle": "Barbade",
+			"pays_nationalite": "Barbadienne"
+		},
+		{
+			"pays_code": "BEL",
+			"pays_libelle": "Belgique",
+			"pays_nationalite": "Belge"
+		},
+		{
+			"pays_code": "BLZ",
+			"pays_libelle": "Belize",
+			"pays_nationalite": "Belizienne"
+		},
+		{
+			"pays_code": "BEN",
+			"pays_libelle": "Bénin",
+			"pays_nationalite": "Beninoise"
+		},
+		{
+			"pays_code": "BTN",
+			"pays_libelle": "Bhoutan",
+			"pays_nationalite": "Bhoutanaise"
+		},
+		{
+			"pays_code": "BLR",
+			"pays_libelle": "Biélorussie",
+			"pays_nationalite": "Bielorusse"
+		},
+		{
+			"pays_code": "MMR",
+			"pays_libelle": "Birmanie",
+			"pays_nationalite": "Birmane"
+		},
+		{
+			"pays_code": "GNB",
+			"pays_libelle": "Guinée-Bissau",
+			"pays_nationalite": "Bissau-Guinéenne"
+		},
+		{
+			"pays_code": "BOL",
+			"pays_libelle": "Bolivie",
+			"pays_nationalite": "Bolivienne"
+		},
+		{
+			"pays_code": "BIH",
+			"pays_libelle": "Bosnie-Herzégovine",
+			"pays_nationalite": "Bosnienne"
+		},
+		{
+			"pays_code": "BWA",
+			"pays_libelle": "Botswana",
+			"pays_nationalite": "Botswanaise"
+		},
+		{
+			"pays_code": "BRA",
+			"pays_libelle": "Brésil",
+			"pays_nationalite": "Bresilienne"
+		},
+		{
+			"pays_code": "GBR",
+			"pays_libelle": "Royaume-Uni",
+			"pays_nationalite": "Britannique"
+		},
+		{
+			"pays_code": "BRN",
+			"pays_libelle": "Brunei",
+			"pays_nationalite": "Bruneienne"
+		},
+		{
+			"pays_code": "BGR",
+			"pays_libelle": "Bulgarie",
+			"pays_nationalite": "Bulgare"
+		},
+		{
+			"pays_code": "BFA",
+			"pays_libelle": "Burkina Faso",
+			"pays_nationalite": "Burkinabe"
+		},
+		{
+			"pays_code": "BDI",
+			"pays_libelle": "Burundi",
+			"pays_nationalite": "Burundaise"
+		},
+		{
+			"pays_code": "KHM",
+			"pays_libelle": "Cambodge",
+			"pays_nationalite": "Cambodgienne"
+		},
+		{
+			"pays_code": "CMR",
+			"pays_libelle": "Cameroun",
+			"pays_nationalite": "Camerounaise"
+		},
+		{
+			"pays_code": "CAN",
+			"pays_libelle": "Canada",
+			"pays_nationalite": "Canadienne"
+		},
+		{
+			"pays_code": "CPV",
+			"pays_libelle": "Cap-Vert",
+			"pays_nationalite": "Cap-verdienne"
+		},
+		{
+			"pays_code": "CAF",
+			"pays_libelle": "République centrafricaine",
+			"pays_nationalite": "Centrafricaine"
+		},
+		{
+			"pays_code": "CHL",
+			"pays_libelle": "Chili",
+			"pays_nationalite": "Chilienne"
+		},
+		{
+			"pays_code": "CHN",
+			"pays_libelle": "Chine",
+			"pays_nationalite": "Chinoise"
+		},
+		{
+			"pays_code": "CYP",
+			"pays_libelle": "Chypre",
+			"pays_nationalite": "Chypriote"
+		},
+		{
+			"pays_code": "COL",
+			"pays_libelle": "Colombie",
+			"pays_nationalite": "Colombienne"
+		},
+		{
+			"pays_code": "COM",
+			"pays_libelle": "Comores",
+			"pays_nationalite": "Comorienne"
+		},
+		{
+			"pays_code": "COD",
+			"pays_libelle": "République démocratique du Congo",
+			"pays_nationalite": "Congolaise"
+		},
+		{
+			"pays_code": "CRI",
+			"pays_libelle": "Costa Rica",
+			"pays_nationalite": "Costaricaine"
+		},
+		{
+			"pays_code": "HRV",
+			"pays_libelle": "Croatie",
+			"pays_nationalite": "Croate"
+		},
+		{
+			"pays_code": "CUB",
+			"pays_libelle": "Cuba",
+			"pays_nationalite": "Cubaine"
+		},
+		{
+			"pays_code": "DNK",
+			"pays_libelle": "Danemark",
+			"pays_nationalite": "Danoise"
+		},
+		{
+			"pays_code": "DJI",
+			"pays_libelle": "Djibouti",
+			"pays_nationalite": "Djiboutienne"
+		},
+		{
+			"pays_code": "DOM",
+			"pays_libelle": "République dominicaine",
+			"pays_nationalite": "Dominicaine"
+		},
+		{
+			"pays_code": "DMA",
+			"pays_libelle": "Dominique",
+			"pays_nationalite": "Dominiquaise"
+		},
+		{
+			"pays_code": "EGY",
+			"pays_libelle": "Égypte",
+			"pays_nationalite": "Egyptienne"
+		},
+		{
+			"pays_code": "ARE",
+			"pays_libelle": "Émirats arabes unis",
+			"pays_nationalite": "Emirienne"
+		},
+		{
+			"pays_code": "GNQ",
+			"pays_libelle": "Guinée équatoriale",
+			"pays_nationalite": "Equato-guineenne"
+		},
+		{
+			"pays_code": "ECU",
+			"pays_libelle": "Équateur",
+			"pays_nationalite": "Equatorienne"
+		},
+		{
+			"pays_code": "ERI",
+			"pays_libelle": "Érythrée",
+			"pays_nationalite": "Erythreenne"
+		},
+		{
+			"pays_code": "ESP",
+			"pays_libelle": "Espagne",
+			"pays_nationalite": "Espagnole"
+		},
+		{
+			"pays_code": "TLS",
+			"pays_libelle": "Timor oriental",
+			"pays_nationalite": "Est-timoraise"
+		},
+		{
+			"pays_code": "EST",
+			"pays_libelle": "Estonie",
+			"pays_nationalite": "Estonienne"
+		},
+		{
+			"pays_code": "ETH",
+			"pays_libelle": "Éthiopie",
+			"pays_nationalite": "Ethiopienne"
+		},
+		{
+			"pays_code": "FJI",
+			"pays_libelle": "Fidji",
+			"pays_nationalite": "Fidjienne"
+		},
+		{
+			"pays_code": "FIN",
+			"pays_libelle": "Finlande",
+			"pays_nationalite": "Finlandaise"
+		},
+		{
+			"pays_code": "FRA",
+			"pays_libelle": "France",
+			"pays_nationalite": "Française"
+		},
+		{
+			"pays_code": "GAB",
+			"pays_libelle": "Gabon",
+			"pays_nationalite": "Gabonaise"
+		},
+		{
+			"pays_code": "GMB",
+			"pays_libelle": "Gambie",
+			"pays_nationalite": "Gambienne"
+		},
+		{
+			"pays_code": "GEO",
+			"pays_libelle": "Géorgie",
+			"pays_nationalite": "Georgienne"
+		},
+		{
+			"pays_code": "GHA",
+			"pays_libelle": "Ghana",
+			"pays_nationalite": "Ghaneenne"
+		},
+		{
+			"pays_code": "GRD",
+			"pays_libelle": "Grenade",
+			"pays_nationalite": "Grenadienne"
+		},
+		{
+			"pays_code": "GTM",
+			"pays_libelle": "Guatemala",
+			"pays_nationalite": "Guatemalteque"
+		},
+		{
+			"pays_code": "GIN",
+			"pays_libelle": "Guinée",
+			"pays_nationalite": "Guineenne"
+		},
+		{
+			"pays_code": "GUY",
+			"pays_libelle": "Guyana",
+			"pays_nationalite": "Guyanienne"
+		},
+		{
+			"pays_code": "HTI",
+			"pays_libelle": "Haïti",
+			"pays_nationalite": "Haïtienne"
+		},
+		{
+			"pays_code": "GRC",
+			"pays_libelle": "Grèce",
+			"pays_nationalite": "Hellenique"
+		},
+		{
+			"pays_code": "HND",
+			"pays_libelle": "Honduras",
+			"pays_nationalite": "Hondurienne"
+		},
+		{
+			"pays_code": "HUN",
+			"pays_libelle": "Hongrie",
+			"pays_nationalite": "Hongroise"
+		},
+		{
+			"pays_code": "IND",
+			"pays_libelle": "Inde",
+			"pays_nationalite": "Indienne"
+		},
+		{
+			"pays_code": "IDN",
+			"pays_libelle": "Indonésie",
+			"pays_nationalite": "Indonesienne"
+		},
+		{
+			"pays_code": "IRQ",
+			"pays_libelle": "Iran",
+			"pays_nationalite": "Iranienne"
+		},
+		{
+			"pays_code": "IRN",
+			"pays_libelle": "Irak",
+			"pays_nationalite": "Irakienne"
+		},
+		{
+			"pays_code": "IRL",
+			"pays_libelle": "Irlande",
+			"pays_nationalite": "Irlandaise"
+		},
+		{
+			"pays_code": "ISL",
+			"pays_libelle": "Islande",
+			"pays_nationalite": "Islandaise"
+		},
+		{
+			"pays_code": "ISR",
+			"pays_libelle": "Israël",
+			"pays_nationalite": "Israélienne"
+		},
+		{
+			"pays_code": "ITA",
+			"pays_libelle": "Italie",
+			"pays_nationalite": "Italienne"
+		},
+		{
+			"pays_code": "CIV",
+			"pays_libelle": "Côte d'ivoire",
+			"pays_nationalite": "Ivoirienne"
+		},
+		{
+			"pays_code": "JAM",
+			"pays_libelle": "Jamaïque",
+			"pays_nationalite": "Jamaïcaine"
+		},
+		{
+			"pays_code": "JPN",
+			"pays_libelle": "Japon",
+			"pays_nationalite": "Japonaise"
+		},
+		{
+			"pays_code": "JOR",
+			"pays_libelle": "Jordanie",
+			"pays_nationalite": "Jordanienne"
+		},
+		{
+			"pays_code": "KAZ",
+			"pays_libelle": "Kazakhstan",
+			"pays_nationalite": "Kazakhstanaise"
+		},
+		{
+			"pays_code": "KEN",
+			"pays_libelle": "Kenya",
+			"pays_nationalite": "Kenyane"
+		},
+		{
+			"pays_code": "KGZ",
+			"pays_libelle": "Kirghizistan",
+			"pays_nationalite": "Kirghize"
+		},
+		{
+			"pays_code": "KIR",
+			"pays_libelle": "Kiribati",
+			"pays_nationalite": "Kiribatienne"
+		},
+		{
+			"pays_code": "KNA",
+			"pays_libelle": "Saint-Christophe-et-Niévès",
+			"pays_nationalite": "Kittitienne-et-nevicienne"
+		},
+		{
+			"pays_code": "XKX",
+			"pays_libelle": "Kosovo",
+			"pays_nationalite": "Kossovienne"
+		},
+		{
+			"pays_code": "KWT",
+			"pays_libelle": "Koweït",
+			"pays_nationalite": "Koweitienne"
+		},
+		{
+			"pays_code": "LAO",
+			"pays_libelle": "Laos",
+			"pays_nationalite": "Laotienne"
+		},
+		{
+			"pays_code": "LSO",
+			"pays_libelle": "Lesotho",
+			"pays_nationalite": "Lesothane"
+		},
+		{
+			"pays_code": "LVA",
+			"pays_libelle": "Lettonie",
+			"pays_nationalite": "Lettone"
+		},
+		{
+			"pays_code": "LBN",
+			"pays_libelle": "Liban",
+			"pays_nationalite": "Libanaise"
+		},
+		{
+			"pays_code": "LBR",
+			"pays_libelle": "Libéria",
+			"pays_nationalite": "Liberienne"
+		},
+		{
+			"pays_code": "LBY",
+			"pays_libelle": "Libye",
+			"pays_nationalite": "Libyenne"
+		},
+		{
+			"pays_code": "LIE",
+			"pays_libelle": "Liechtenstein",
+			"pays_nationalite": "Liechtensteinoise"
+		},
+		{
+			"pays_code": "LTU",
+			"pays_libelle": "Lituanie",
+			"pays_nationalite": "Lituanienne"
+		},
+		{
+			"pays_code": "LUX",
+			"pays_libelle": "Luxembourg",
+			"pays_nationalite": "Luxembourgeoise"
+		},
+		{
+			"pays_code": "FYR",
+			"pays_libelle": "Macédoine",
+			"pays_nationalite": "Macedonienne"
+		},
+		{
+			"pays_code": "MYS",
+			"pays_libelle": "Malaisie",
+			"pays_nationalite": "Malaisienne"
+		},
+		{
+			"pays_code": "MWI",
+			"pays_libelle": "Malawi",
+			"pays_nationalite": "Malawienne"
+		},
+		{
+			"pays_code": "MDV",
+			"pays_libelle": "Maldives",
+			"pays_nationalite": "Maldivienne"
+		},
+		{
+			"pays_code": "MDG",
+			"pays_libelle": "Madagascar",
+			"pays_nationalite": "Malgache"
+		},
+		{
+			"pays_code": "MLI",
+			"pays_libelle": "Mali",
+			"pays_nationalite": "Malienne"
+		},
+		{
+			"pays_code": "MLT",
+			"pays_libelle": "Malte",
+			"pays_nationalite": "Maltaise"
+		},
+		{
+			"pays_code": "MNP",
+			"pays_libelle": "Îles Mariannes du Nord",
+			"pays_nationalite": "Mariannaise"
+		},
+		{
+			"pays_code": "MAR",
+			"pays_libelle": "Maroc",
+			"pays_nationalite": "Marocaine"
+		},
+		{
+			"pays_code": "MHL",
+			"pays_libelle": "Îles Marshall",
+			"pays_nationalite": "Marshallaise"
+		},
+		{
+			"pays_code": "MUS",
+			"pays_libelle": "Maurice",
+			"pays_nationalite": "Mauricienne"
+		},
+		{
+			"pays_code": "MRT",
+			"pays_libelle": "Mauritanie",
+			"pays_nationalite": "Mauritanienne"
+		},
+		{
+			"pays_code": "MEX",
+			"pays_libelle": "Mexique",
+			"pays_nationalite": "Mexicaine"
+		},
+		{
+			"pays_code": "FSM",
+			"pays_libelle": "Micronésie",
+			"pays_nationalite": "Micronesienne"
+		},
+		{
+			"pays_code": "MDA",
+			"pays_libelle": "République de Moldavie",
+			"pays_nationalite": "Moldave"
+		},
+		{
+			"pays_code": "MCO",
+			"pays_libelle": "Monaco",
+			"pays_nationalite": "Monegasque"
+		},
+		{
+			"pays_code": "MNG",
+			"pays_libelle": "Mongolie",
+			"pays_nationalite": "Mongole"
+		},
+		{
+			"pays_code": "MNE",
+			"pays_libelle": "Monténégro",
+			"pays_nationalite": "Montenegrine"
+		},
+		{
+			"pays_code": "MOZ",
+			"pays_libelle": "Mozambique",
+			"pays_nationalite": "Mozambicaine"
+		},
+		{
+			"pays_code": "NAM",
+			"pays_libelle": "Namibie",
+			"pays_nationalite": "Namibienne"
+		},
+		{
+			"pays_code": "NRU",
+			"pays_libelle": "Nauru",
+			"pays_nationalite": "Nauruane"
+		},
+		{
+			"pays_code": "NLD",
+			"pays_libelle": "Pays-Bas",
+			"pays_nationalite": "Neerlandaise"
+		},
+		{
+			"pays_code": "NZL",
+			"pays_libelle": "Nouvelle-Zélande",
+			"pays_nationalite": "Neo-zelandaise"
+		},
+		{
+			"pays_code": "NPL",
+			"pays_libelle": "Népal",
+			"pays_nationalite": "Nepalaise"
+		},
+		{
+			"pays_code": "NIC",
+			"pays_libelle": "Nicaragua",
+			"pays_nationalite": "Nicaraguayenne"
+		},
+		{
+			"pays_code": "NGA",
+			"pays_libelle": "Nigeria",
+			"pays_nationalite": "Nigeriane"
+		},
+		{
+			"pays_code": "NER",
+			"pays_libelle": "Niger",
+			"pays_nationalite": "Nigerienne"
+		},
+		{
+			"pays_code": "PRK",
+			"pays_libelle": "Corée du Nord",
+			"pays_nationalite": "Nord-coréenne"
+		},
+		{
+			"pays_code": "NOR",
+			"pays_libelle": "Norvège",
+			"pays_nationalite": "Norvegienne"
+		},
+		{
+			"pays_code": "OMN",
+			"pays_libelle": "Oman",
+			"pays_nationalite": "Omanaise"
+		},
+		{
+			"pays_code": "UGA",
+			"pays_libelle": "Ouganda",
+			"pays_nationalite": "Ougandaise"
+		},
+		{
+			"pays_code": "UZB",
+			"pays_libelle": "Ouzbékistan",
+			"pays_nationalite": "Ouzbeke"
+		},
+		{
+			"pays_code": "PAK",
+			"pays_libelle": "Pakistana",
+			"pays_nationalite": "Pakistanaise"
+		},
+		{
+			"pays_code": "PLW",
+			"pays_libelle": "Palaos",
+			"pays_nationalite": "Palau"
+		},
+		{
+			"pays_code": "PSE",
+			"pays_libelle": "Palestine",
+			"pays_nationalite": "Palestinienne"
+		},
+		{
+			"pays_code": "PAN",
+			"pays_libelle": "Panama",
+			"pays_nationalite": "Panameenne"
+		},
+		{
+			"pays_code": "PNG",
+			"pays_libelle": "Papouasie-Nouvelle-Guinée",
+			"pays_nationalite": "Papouane-neoguineenne"
+		},
+		{
+			"pays_code": "PRY",
+			"pays_libelle": "Paraguay",
+			"pays_nationalite": "Paraguayenne"
+		},
+		{
+			"pays_code": "PER",
+			"pays_libelle": "Pérou",
+			"pays_nationalite": "Peruvienne"
+		},
+		{
+			"pays_code": "PHL",
+			"pays_libelle": "Philippines",
+			"pays_nationalite": "Philippine"
+		},
+		{
+			"pays_code": "POL",
+			"pays_libelle": "Pologne",
+			"pays_nationalite": "Polonaise"
+		},
+		{
+			"pays_code": "PRI",
+			"pays_libelle": "Porto Rico",
+			"pays_nationalite": "Portoricaine"
+		},
+		{
+			"pays_code": "PRT",
+			"pays_libelle": "Portugal",
+			"pays_nationalite": "Portugaise"
+		},
+		{
+			"pays_code": "QAT",
+			"pays_libelle": "Qatar",
+			"pays_nationalite": "Qatarienne"
+		},
+		{
+			"pays_code": "ROU",
+			"pays_libelle": "Roumanie",
+			"pays_nationalite": "Roumaine"
+		},
+		{
+			"pays_code": "RUS",
+			"pays_libelle": "Russie",
+			"pays_nationalite": "Russe"
+		},
+		{
+			"pays_code": "RWA",
+			"pays_libelle": "Rwanda",
+			"pays_nationalite": "Rwandaise"
+		},
+		{
+			"pays_code": "LCA",
+			"pays_libelle": "Sainte-Lucie",
+			"pays_nationalite": "Saint-lucienne"
+		},
+		{
+			"pays_code": "SMR",
+			"pays_libelle": "Saint-Marin",
+			"pays_nationalite": "Saint-marinaise"
+		},
+		{
+			"pays_code": "VCT",
+			"pays_libelle": "Saint-Vincent-et-les Grenadines",
+			"pays_nationalite": "Saint-vincentaise-et-grenadine"
+		},
+		{
+			"pays_code": "SLB",
+			"pays_libelle": "Salomon",
+			"pays_nationalite": "Salomonaise"
+		},
+		{
+			"pays_code": "SLV",
+			"pays_libelle": "Salvador",
+			"pays_nationalite": "Salvadorienne"
+		},
+		{
+			"pays_code": "WSM",
+			"pays_libelle": "Samoa",
+			"pays_nationalite": "Samoane"
+		},
+		{
+			"pays_code": "STP",
+			"pays_libelle": "Sao Tomé-et-Principe",
+			"pays_nationalite": "Santomeenne"
+		},
+		{
+			"pays_code": "SAU",
+			"pays_libelle": "Arabie saoudite",
+			"pays_nationalite": "Saoudienne"
+		},
+		{
+			"pays_code": "SEN",
+			"pays_libelle": "Sénégal",
+			"pays_nationalite": "Senegalaise"
+		},
+		{
+			"pays_code": "SRB",
+			"pays_libelle": "Serbie",
+			"pays_nationalite": "Serbe"
+		},
+		{
+			"pays_code": "SYC",
+			"pays_libelle": "Seychelles",
+			"pays_nationalite": "Seychelloise"
+		},
+		{
+			"pays_code": "SLE",
+			"pays_libelle": "Sierra Leone",
+			"pays_nationalite": "Sierra-leonaise"
+		},
+		{
+			"pays_code": "SGP",
+			"pays_libelle": "Singapour",
+			"pays_nationalite": "Singapourienne"
+		},
+		{
+			"pays_code": "SVK",
+			"pays_libelle": "Slovaquie",
+			"pays_nationalite": "Slovaque"
+		},
+		{
+			"pays_code": "SVN",
+			"pays_libelle": "Slovénie",
+			"pays_nationalite": "Slovene"
+		},
+		{
+			"pays_code": "SOM",
+			"pays_libelle": "Somalie",
+			"pays_nationalite": "Somalienne"
+		},
+		{
+			"pays_code": "SDN",
+			"pays_libelle": "Soudan",
+			"pays_nationalite": "Soudanaise"
+		},
+		{
+			"pays_code": "LKA",
+			"pays_libelle": "Sri Lanka",
+			"pays_nationalite": "Sri-lankaise"
+		},
+		{
+			"pays_code": "ZAF",
+			"pays_libelle": "Afrique du Sud",
+			"pays_nationalite": "Sud-africaine"
+		},
+		{
+			"pays_code": "KOR",
+			"pays_libelle": "Corée du Sud",
+			"pays_nationalite": "Sud-coréenne"
+		},
+		{
+			"pays_code": "SWE",
+			"pays_libelle": "Suède",
+			"pays_nationalite": "Suedoise"
+		},
+		{
+			"pays_code": "CHE",
+			"pays_libelle": "Suisse",
+			"pays_nationalite": "Suisse"
+		},
+		{
+			"pays_code": "SUR",
+			"pays_libelle": "Suriname",
+			"pays_nationalite": "Surinamaise"
+		},
+		{
+			"pays_code": "SWZ",
+			"pays_libelle": "Swaziland",
+			"pays_nationalite": "Swazie"
+		},
+		{
+			"pays_code": "SYR",
+			"pays_libelle": "Syrie",
+			"pays_nationalite": "Syrienne"
+		},
+		{
+			"pays_code": "TJK",
+			"pays_libelle": "Tadjikistan",
+			"pays_nationalite": "Tadjike"
+		},
+		{
+			"pays_code": "TWN",
+			"pays_libelle": "Taïwan",
+			"pays_nationalite": "Taiwanaise"
+		},
+		{
+			"pays_code": "TZN",
+			"pays_libelle": "Tanzanie",
+			"pays_nationalite": "Tanzanienne"
+		},
+		{
+			"pays_code": "TCD",
+			"pays_libelle": "Tchad",
+			"pays_nationalite": "Tchadienne"
+		},
+		{
+			"pays_code": "CZE",
+			"pays_libelle": "République tchèque",
+			"pays_nationalite": "Tcheque"
+		},
+		{
+			"pays_code": "THA",
+			"pays_libelle": "Thaïlande",
+			"pays_nationalite": "Thaïlandaise"
+		},
+		{
+			"pays_code": "TGO",
+			"pays_libelle": "Togo",
+			"pays_nationalite": "Togolaise"
+		},
+		{
+			"pays_code": "TON",
+			"pays_libelle": "Tonga",
+			"pays_nationalite": "Tonguienne"
+		},
+		{
+			"pays_code": "TTO",
+			"pays_libelle": "Trinité-et-Tobago",
+			"pays_nationalite": "Trinidadienne"
+		},
+		{
+			"pays_code": "TUN",
+			"pays_libelle": "Tunisie",
+			"pays_nationalite": "Tunisienne"
+		},
+		{
+			"pays_code": "TKM",
+			"pays_libelle": "Turkménistan",
+			"pays_nationalite": "Turkmene"
+		},
+		{
+			"pays_code": "TUR",
+			"pays_libelle": "Turquie",
+			"pays_nationalite": "Turque"
+		},
+		{
+			"pays_code": "TUV",
+			"pays_libelle": "Tuvalu",
+			"pays_nationalite": "Tuvaluane"
+		},
+		{
+			"pays_code": "UKR",
+			"pays_libelle": "Ukraine",
+			"pays_nationalite": "Ukrainienne"
+		},
+		{
+			"pays_code": "URY",
+			"pays_libelle": "Uruguay",
+			"pays_nationalite": "Uruguayenne"
+		},
+		{
+			"pays_code": "VUT",
+			"pays_libelle": "Vanuatu",
+			"pays_nationalite": "Vanuatuane"
+		},
+		{
+			"pays_code": "VAT",
+			"pays_libelle": "Vatican",
+			"pays_nationalite": "Vaticane"
+		},
+		{
+			"pays_code": "VEN",
+			"pays_libelle": "Venezuela",
+			"pays_nationalite": "Venezuelienne"
+		},
+		{
+			"pays_code": "VNM",
+			"pays_libelle": "Viêt Nam",
+			"pays_nationalite": "Vietnamienne"
+		},
+		{
+			"pays_code": "YEM",
+			"pays_libelle": "Yémen",
+			"pays_nationalite": "Yemenite"
+		},
+		{
+			"pays_code": "ZMB",
+			"pays_libelle": "Zambie",
+			"pays_nationalite": "Zambienne"
+		},
+		{
+			"pays_code": "ZWE",
+			"pays_libelle": "Zimbabwe",
+			"pays_nationalite": "Zimbabweenne"
+		}
+	]
+}
